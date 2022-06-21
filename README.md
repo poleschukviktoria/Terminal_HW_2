@@ -21,85 +21,85 @@ Terminal. HW_2
 - the first 1
 - the second 2
 - the third 3    
-> cat > tf_2.txt
-> - the first 1
-> - the second 2
-> - the third 3
+> cat > tf_2.txt  
+> - the first 1  
+> - the second 2  
+> - the third 3  
 > Нажать Enter и Ctrl+D
 
 7. Зайти в папку inner_dir_1  
 > cd inner_dir_1
 
 8. Через cat сделать текстовый файл tf_3.txt  c любыми строками  
-> cat > tf_3.txt
-> 11111
-> 22222
-> 33333
-> Нажать Enter и Ctrl+D
+> cat > tf_3.txt  
+> 11111  
+> 22222  
+> 33333  
+> Нажать Enter и Ctrl+D  
 
 9. Через cat добавить в текстовый файл tf_3.txt строку “the second 2”    
-> cat >> tf_3.txt
-> the second 2
-> Нажать Enter и Ctrl+D
+> cat >> tf_3.txt  
+> the second 2  
+> Нажать Enter и Ctrl+D  
 
 10. Через cat добавить в текстовый файл tf_3.txt строку “the sec 2”  
-> cat >> tf_3.txt
-> the sec 2
+> cat >> tf_3.txt  
+> the sec 2  
 > Нажать Enter и Ctrl+D
 
 11. Через cat добавить в текстовый файл tf_2.txt строку “the sec 3”  
-> cat >> ../tf_2.txt
-> the sec 3
+> cat >> ../tf_2.txt  
+> the sec 3  
 > Нажать Enter и Ctrl+D
 
 12. Через cat добавить в текстовый файл tf_3.txt строку “the SeCoNd 2”  
-> cat >> tf_3.txt
-> the SeCoNd 2
+> cat >> tf_3.txt  
+> the SeCoNd 2  
 > Нажать Enter и Ctrl+D
 
 13. Через cat добавить в текстовый файл tf_2.txt строку “the seConD 2”  
-> cat >> ../tf_2.txt
-> the seConD 2
-> Нажать Enter и Ctrl+D
+> cat >> ../tf_2.txt  
+> the seConD 2  
+> Нажать Enter и Ctrl+D  
 
 14. Сделать текстовый файл tf_4.txt в котором будет 15 строк.  
-> cat > tf_4.txt
-> 1
-> 2
-> 3
-> 4
-> 5
-> 6
-> 7
-> 8
-> 9
-> 10
-> 11
-> 12
-> 13
-> 14
-> 15
+> cat > tf_4.txt  
+> 1  
+> 2  
+> 3  
+> 4  
+> 5  
+> 6  
+> 7  
+> 8  
+> 9  
+> 10  
+> 11  
+> 12  
+> 13  
+> 14  
+> 15  
 > Нажать Enter и Ctrl+D
 
 15. Сделать текстовый файл tF_5.txt в котором будет 13 строк.  
-> cat > tF_5.txt
-> 1
-> 2
-> 3
-> 4
-> 5
-> 6
-> 7
-> 8
-> 9
-> 10
-> 11
-> 12
-> 13
+> cat > tF_5.txt  
+> 1  
+> 2  
+> 3  
+> 4  
+> 5  
+> 6  
+> 7  
+> 8  
+> 9  
+> 10  
+> 11  
+> 12  
+> 13  
 > Нажать Enter и Ctrl+D
 
 16. Вывести список всех файлов в папке.  
-> ls -la
+> ls -la  
 
 17. Выйти из папки inner_dir_1  
 > cd ..
