@@ -1,7 +1,5 @@
 # Terminal_HW_2
 
-Terminal. HW_2
-
 1. Сделать папку dir_1  
 > mkdir dir_1  
 
